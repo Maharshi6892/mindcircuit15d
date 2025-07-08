@@ -1,4 +1,3 @@
-maharshi 
 <!DOCTYPE html>
 <html lang="en" id="facebook" class="no_js">
 <h1>Hi</h1>
